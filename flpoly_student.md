@@ -1,27 +1,29 @@
-## First Name Last Name
+## Kalia Lafferty
 
-### Term Year 
+### Fall 2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Applied Statistics
 
-- Course 2
+- Foundations of Data Analytics
 
-- Course 3
+- Object Oriented Programming
 
-- Course 4
+- Complex Variables
+
+- Mathematical Scientific Computation
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Crocheting
 
-- Thing 2
+- Listening to music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Women's powerlifting as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/09/01
